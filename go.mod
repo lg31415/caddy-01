@@ -1,4 +1,5 @@
-module github.com/caddyserver/caddy/v2
+module github.com/lg31415/caddy/v2
+replace github.com/caddyserver/caddy/v2 => github.com/lg31415/caddy/v2 quic-onlyudp
 
 go 1.17
 
